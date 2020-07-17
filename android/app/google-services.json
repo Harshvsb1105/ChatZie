@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1060784031650",
+    "firebase_url": "https://chatzie-165d0.firebaseio.com",
+    "project_id": "chatzie-165d0",
+    "storage_bucket": "chatzie-165d0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060784031650:android:df54fe7d61e1b2d04814fb",
+        "android_client_info": {
+          "package_name": "com.example.chatzie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060784031650-pv62ltk8b7c4jfibogfnmbp6i969eajl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADAN83LphU-Dk3iExjJRs9a8t73Hn9ZHY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1060784031650-pv62ltk8b7c4jfibogfnmbp6i969eajl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
